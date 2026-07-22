@@ -4,7 +4,7 @@ import shutil
 import time
 
 # check file in a folder
-folder_path = r'C:\Users\OWNER\OneDrive\Desktop\Python Folder\practice_organizer'
+folder_path = 'C:/Users/OWNER/OneDrive/Desktop/Python Folder/practice_organizer'
 os.listdir(folder_path)
 
 result = os.listdir(folder_path)
